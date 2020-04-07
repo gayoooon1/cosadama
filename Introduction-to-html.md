@@ -83,21 +83,29 @@ The <span> element is an inline container for text and can be used to to separat
     
 ## 7.Emphasis Element `<em>`
 The <em> emphasis element emphasizes text and browsers will usually italicize the emphasized text by default.
-
-```<p>This <em>word</em> will be emphasized in italics.</p>```
-
+*글씨가 휘날리게 강조해줍니다*
+```
+<p>This <em>word</em> will be emphasized in italics.</p>
+```
+       
+       
 ## 8.Strong Element `<strong>`
-
-
+**bold**체로 표시해줍니다.
+       
+       
+       
 ## 9.Line Break Element `<br>`
 
-```A line break haiku.<br>
+```
+A line break haiku.<br>
 Poems are a great use case.<br>
 Oh joy! A line break.
 ```
               
-              
-## 10.List contained Elements
+       
+       
+       
+## 10.List contained Elements `<ul>, <ol>, <li>`
 1. Unordered List Element `<ul>`
 2. Ordered List Element `<ol>`   
 3. List Item Element `<li>`  create list items inside: Ordered lists `<ol>`, Unordered lists `<ul>`
