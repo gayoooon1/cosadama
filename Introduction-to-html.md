@@ -1,6 +1,10 @@
+       
+              
+              
 INTRODUCTION TO HTML
 =================
-참조: codeacademy
+       
+       참조: codeacademy
 
 
 # What is HTML?
@@ -72,16 +76,17 @@ HTML attributes are values added to the opening tag of an element to configure t
 <p id="my-paragraph" style="color: green;">Here’s some text for a paragraph that is being altered by HTML attributes</p>
 ```
 
-## 5.Paragraph Element `<p>`
+## 5. Paragraph Element `<p>`
 The `<p>` paragraph element = a block of text.
 
     
-## 6.Span Element `<span>`
+## 6. Span Element `<span>`
 The <span> element is an inline container for text and can be used to to separate pieces of text from a larger body of text, its use should be avoided if a more semantic element is available.
     
     
-    
-## 7.Emphasis Element `<em>`
+       
+       
+## 7. Emphasis Element `<em>`
 The <em> emphasis element emphasizes text and browsers will usually italicize the emphasized text by default.
 *글씨가 휘날리게 강조해줍니다*
 ```
@@ -89,12 +94,12 @@ The <em> emphasis element emphasizes text and browsers will usually italicize th
 ```
        
        
-## 8.Strong Element `<strong>`
+## 8. Strong Element `<strong>`
 **bold**체로 표시해줍니다.
        
        
        
-## 9.Line Break Element `<br>`
+## 9. Line Break Element `<br>`
 
 ```
 A line break haiku.<br>
@@ -105,7 +110,7 @@ Oh joy! A line break.
        
        
        
-## 10.List contained Elements `<ul>, <ol>, <li>`
+## 10. List contained Elements `<ul>, <ol>, <li>`
 1. Unordered List Element `<ul>`
 2. Ordered List Element `<ol>`   
 3. List Item Element `<li>`  create list items inside: Ordered lists `<ol>`, Unordered lists `<ul>`
