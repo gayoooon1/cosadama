@@ -4,12 +4,7 @@ Created: Apr 07, 2020 8:17 PM
 Property: Ka Yoon Kim
 Tags: HTML
 
-# INTRODUCTION TO HTML
-
-       참조: codeacademy
-    
-
-# What is HTML?
+# What is html?
 
 ---
 
@@ -95,7 +90,9 @@ The <span> element is an inline container for text and can be used to to separat
 The <em> emphasis element emphasizes text and browsers will usually italicize the emphasized text by default.
 *글씨가 휘날리게 강조해줍니다*
 
+    ```
     <p>This <em>word</em> will be emphasized in italics.</p>
+    ```
     
 
 ## 8. Strong Element `<strong>`
