@@ -79,20 +79,25 @@ The `<p>` paragraph element = a block of text.
 ## 6.Span Element `<span>`
 The <span> element is an inline container for text and can be used to to separate pieces of text from a larger body of text, its use should be avoided if a more semantic element is available.
     
+    
+    
 ## 7.Emphasis Element `<em>`
 The <em> emphasis element emphasizes text and browsers will usually italicize the emphasized text by default.
 
-```<p>This <em>word</em> will be emphasized in italics.</p>
-Strong Element <strong> #bold```
+```<p>This <em>word</em> will be emphasized in italics.</p>```
 
-## 8.Line Break Element `<br>`
+## 8.Strong Element `<strong>`
+
+
+## 9.Line Break Element `<br>`
 
 ```A line break haiku.<br>
 Poems are a great use case.<br>
 Oh joy! A line break.
 ```
-       
-## 9.List contained Elements
+              
+              
+## 10.List contained Elements
 1. Unordered List Element `<ul>`
 2. Ordered List Element `<ol>`   
 3. List Item Element `<li>`  create list items inside: Ordered lists `<ol>`, Unordered lists `<ul>`
