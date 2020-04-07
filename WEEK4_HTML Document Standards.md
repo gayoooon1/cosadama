@@ -3,11 +3,11 @@
 
 
 # 🐣 HTML Document Standards
----
+
 * Created: Apr 07, 2020 8:17 PM
 * Property: Ka Yoon Kim
 * Tags: HTML
-
+---
 
 ## 1. Preparing for HTML
 
@@ -19,9 +19,7 @@
     
     </html>
     
-    
-    
-    
+
 ## 2. The Head
 
 Now, let’s also give the browser some information about the page itself. We can do this by adding a 
@@ -29,8 +27,7 @@ Now, let’s also give the browser some information about the page itself. We ca
 - `<head>` element : 브라우저에게 페이지 정보를 넘겨준다.
 - `<body>` element 위에 선언
 - `<head>` 웹 페이지의 메타 데이터(웹페이지에 나와있지 않은 정보들)를 포함, 페이지 자체를 위한 정보를 가지고 있다.         
-    
-        
+
 
 ## 3. The Page Titles
 
