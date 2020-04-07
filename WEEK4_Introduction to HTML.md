@@ -1,8 +1,8 @@
 # 🐣 Introduction to HTML
 
-Created: Apr 07, 2020 8:17 PM
-Property: Ka Yoon Kim
-Tags: HTML
+* Created: Apr 07, 2020 8:17 PM
+* Property: Ka Yoon Kim
+* Tags: HTML
 
 # What is html?
 
