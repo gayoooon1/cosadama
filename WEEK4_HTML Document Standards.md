@@ -19,14 +19,18 @@
     
     </html>
     
-
+    
+    
+    
 ## 2. The Head
 
 Now, let’s also give the browser some information about the page itself. We can do this by adding a 
 
 - `<head>` element : 브라우저에게 페이지 정보를 넘겨준다.
 - `<body>` element 위에 선언
-- `<head>` 웹 페이지의 메타 데이터(웹페이지에 나와있지 않은 정보들)를 포함, 페이지 자체를 위한 정보를 가지고 있다.
+- `<head>` 웹 페이지의 메타 데이터(웹페이지에 나와있지 않은 정보들)를 포함, 페이지 자체를 위한 정보를 가지고 있다.         
+    
+        
 
 ## 3. The Page Titles
 
@@ -50,17 +54,23 @@ Now, let’s also give the browser some information about the page itself. We ca
 
     <a href="https://www.wikipedia.org/">This Is A Link To Wikipedia</a>
     
-
+    
+        
+            
 ### 2. Opening Links in a New Window
 
 - Use `<target>="_blank"`
-
+        
+            
+            
 ### 3. Linking to Relative Pages
 
 - If the files are stored in the same folder, we can link web pages together using a relative path.
 - `./` 현재 폴더에 있다는 것을 말한다.
 - Relative path 추가할 때 : `<a href ="./aboutme.html>About Me</a>`
-
+        
+            
+            
 ### 4. Linking At Will
 
 - HTML은 이미지를 링크로 변환할 수 있다.
@@ -70,7 +80,9 @@ Now, let’s also give the browser some information about the page itself. We ca
     
 
 In the example above, an image of a prickly pear has been turned into a link by wrapping the outside of the `<img>` element with an `<a>` element.
-
+        
+            
+                
 ### 5. Linking to Same Page
 
 - 내용이 너무 많다! 다른 부분에서 이 창을 열게 하고 싶다. → `<target>`
@@ -79,13 +91,17 @@ In the example above, an image of a prickly pear has been turned into a link by 
 - 내가 설정해놓은 div의 id와 같아야 그 링크가 만들어지고 같은 페이지 내에서 이동할 수 있는듯
 
 > The rest of following contents will focus on some tools developers use to make code easier to interpret.
-
+        
+            
+                
 ## 6. Whitespace & Indentation
 
 ## 7. Comments
 
 - Comments are written in HTML using the following syntax: `<!-- comment -->`
-
+        
+            
+            
 ## 8. Codes
 
     <!DOCTYPE html>
