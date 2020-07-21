@@ -21,3 +21,7 @@ Super python beginner , a person who has just begun the python or says 'Python i
 * Knowledge of pandas, numpy, matplotlib, seaborn... All kind of methods for data analysis!
 * Applied hands-on data analysis or even development.
 * Learn from each other
+
+## __Curriculum__
+
+Find out on wiki!
